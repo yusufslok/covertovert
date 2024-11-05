@@ -8,6 +8,9 @@ Basic ICMP Documentation
 
 Please add your names and group ID here by editing `index.rst` in the docs folder.
 
+Yusuf Sami Lök, Hasan Küreli
+Group id: 53
+
 
 .. toctree::
    :maxdepth: 2
